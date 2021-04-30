@@ -28,7 +28,7 @@ There is also an admin panel for managing inventory and adding new books to the 
 <br/>
 <br/>
 
-### Screenshots
+## Screenshots
 #### Landing Page
 ![](screenshots/landing.png)
 <br/>
