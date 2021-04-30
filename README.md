@@ -25,6 +25,8 @@ There is also an admin panel for managing inventory and adding new books to the 
 ## [Live Site](https://humayun-nama.firebaseapp.com/) <br/>
 ## [Client Side Repo](https://github.com/AsadujjamanMridul/humayunnama-client/)
 
+<br/>
+<br/>
 
 ### Screenshots
 #### Landing Page
