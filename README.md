@@ -30,15 +30,33 @@ There is also an admin panel for managing inventory and adding new books to the 
 
 ## Screenshots
 #### Landing Page
-![](screenshots/landing.png)
+
+<p align="center">
+  <img src="screenshots/landing.png" width="75%" align="center"/>
+</p>
 <br/>
+
 #### Login Page
-![](screenshots/login.png)
+
+<p align="center">
+  <img src="screenshots/login.png" width="75%" align="center"/>
+</p>
 <br/>
+
 #### Checkout Page
-![](screenshots/checkout.png)
+
+<p align="center">
+  <img src="screenshots/checkout.png" width="75%" align="center"/>
+</p>
+<br/>
+
 #### Orders Dashboard
-![](screenshots/Orders.png)
+
+<p align="center">
+  <img src="screenshots/Orders.png" width="75%" align="center"/>
+</p>
+
+<br/>
 
 ###### `Thank you`
 
